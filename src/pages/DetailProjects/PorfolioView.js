@@ -26,7 +26,7 @@ export default function DetailProject() {
 
     
     return (
-      <div className="w-full flex flex-col items-center dark:text-black lg:pb-24 pb-12">
+      <div className="w-full flex flex-col items-center text-white dark:text-black lg:pb-24 pb-12">
         <div className="w-full lg:px-12">
           <h1 className="lg:text-5xl text-3xl pb-12">Hishigdalai</h1>
           <p className="lg:text-3xl text-2xl pb-8">developed by ######</p>
